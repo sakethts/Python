@@ -1,0 +1,8 @@
+MultipleMatch.py
+
+A python code which helps you match multiple text files and print out the matches in another file. You have to manually enter the file names as per the requirement by opening the code.
+
+Multiplematch.py - will match multiple text files line by line
+Match.py - will match two text files line by line
+
+Usage: python multiplematch.py 
