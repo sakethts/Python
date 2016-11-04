@@ -1,3 +1,10 @@
+Socket Programming Using python
+Includes client and server python scripts which follow TCP/IP protocol. The functionalities included in this project will are Packet Sniffing, ARP tables, Details about the networks.
+
+
+
+
+
 MultipleMatch.py
 
 A python code which helps you match multiple text files and print out the matches in another file. You have to manually enter the file names as per the requirement by opening the code.
